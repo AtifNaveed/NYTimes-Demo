@@ -26,4 +26,5 @@ This SAMPLE application is written in Kotlin using MVVM.
 - Add api key in SAMPLE Application config
 
 ## Dependencies
-Retrofit & Koin
+- Retrofit https://github.com/square/retrofit
+- Koin https://github.com/InsertKoinIO/koin
