@@ -7,20 +7,28 @@
 //
 
 import UIKit
+import SwiftyProgressHud
 
 class HomeViewController: UIViewController, ViewModelDelegate {
+    var hud: SwiftyProgressHud!
     @IBOutlet weak var tableView: UITableView!
     var viewModel = NYViewModel()
     override func viewDidLoad() {
         super.viewDidLoad()
+        setup()
+    }
+    func setup() {
         tableView.dataSource = self
         tableView.delegate = self
         viewModel.delegate = self
+        hud = SwiftyProgressHud()
+        hud.show(view: self.view)
         viewModel.getNews()
     }
     func reloadTable() {
         DispatchQueue.main.sync {
             self.tableView.reloadData()
+            hud.hide()
         }
     }
 }

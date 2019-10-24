@@ -1,16 +1,20 @@
 PODS:
   - Alamofire (4.9.0)
+  - SwiftyProgressHud (1.0.3)
 
 DEPENDENCIES:
   - Alamofire
+  - SwiftyProgressHud
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
+    - SwiftyProgressHud
 
 SPEC CHECKSUMS:
   Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  SwiftyProgressHud: 6ea32c04775b3057ed5c4253b9a4f7f07994e9a9
 
-PODFILE CHECKSUM: 3d48e05d8a586936a6a1b516caa0e99b5241db18
+PODFILE CHECKSUM: b4e6b08fd80c91a208281a52a6fc699a76a3384e
 
 COCOAPODS: 1.7.5

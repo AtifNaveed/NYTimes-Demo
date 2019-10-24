@@ -8,4 +8,5 @@ target 'NYTimeMPSwift' do
   # Pods for NYTimeMPSwift
   
   pod 'Alamofire'
+  pod 'SwiftyProgressHud'
 end
