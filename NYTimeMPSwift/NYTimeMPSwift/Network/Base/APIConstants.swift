@@ -12,7 +12,6 @@ import Foundation
 enum APIEndPoint: String {
     case getPopular  = "/mostpopular"
 }
-
 struct APIConstants {
     static let protocolo    : String = "https://"
     static let apiVersion   : String = "/v2"
