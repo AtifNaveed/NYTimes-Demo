@@ -18,7 +18,7 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         //TODO: get default values from requirement provider
         lblNewsTitle.text = item!.title == "" ? "Fantastic News" : item!.title
-        lblNewsBy.text = item!.byline == "" ? "By Atif Naveed" : item!.byline
+        lblNewsBy.text = item!.byline == "" ? "By Atif Naveed" : item!.abstract
         if ((item?.media.count)! > 0) {
             let media = item!.media[0]
             if (media.media_metadata.count > 0) {
