@@ -18,6 +18,9 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289423/1_bvueuc.png)
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289432/2_kcacey.png)
 
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_700/v1571923259/4_txlstl.png)
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_700/v1571923259/5_hsn7v3.png)
+
 
 ## How to run this demo?
 - Sign up as developer @ https://developer.nytimes.com
