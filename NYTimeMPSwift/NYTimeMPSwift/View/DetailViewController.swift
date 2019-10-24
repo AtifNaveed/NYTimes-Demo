@@ -22,8 +22,11 @@ class DetailViewController: UIViewController {
         if ((item?.media.count)! > 0) {
             let media = item!.media[0]
             if (media.media_metadata.count > 0) {
-                let image = media.media_metadata[0]
-                imagView?.image(url: image.url)
+                for image in media.media_metadata {
+                    if image.format == "superJumbo" {
+                        imagView?.image(url: image.url)
+                    }
+                }
             }
         }
         lblNewsDate.text = item!.published_date == "" ? Utils.formateDate(date: Utils.fakeDate()) : Utils.formateDate(date: item!.published_date)

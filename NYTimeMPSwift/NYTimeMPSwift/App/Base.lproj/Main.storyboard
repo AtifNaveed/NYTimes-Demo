@@ -37,10 +37,14 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="13" translatesAutoresizingMaskIntoConstraints="NO" id="3Fq-P8-a4i">
-                                <rect key="frame" x="12" y="71" width="390" height="352"/>
+                                <rect key="frame" x="12" y="58" width="390" height="352"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EU6-qo-g3v">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EU6-qo-g3v">
                                         <rect key="frame" x="0.0" y="0.0" width="390" height="267"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="390" id="Ra3-SR-9y2"/>
+                                            <constraint firstAttribute="height" constant="267" id="TyT-ME-W6s"/>
+                                        </constraints>
                                     </imageView>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="zh6-fU-CZH">
                                         <rect key="frame" x="0.0" y="280" width="390" height="72"/>
@@ -74,8 +78,7 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="3Fq-P8-a4i" firstAttribute="top" secondItem="oP1-aF-dEI" secondAttribute="top" constant="27" id="Gry-Yd-Ga0"/>
-                            <constraint firstItem="oP1-aF-dEI" firstAttribute="bottom" secondItem="3Fq-P8-a4i" secondAttribute="bottom" constant="439" id="kdY-CX-gke"/>
+                            <constraint firstItem="3Fq-P8-a4i" firstAttribute="top" secondItem="oP1-aF-dEI" secondAttribute="top" constant="14" id="Gry-Yd-Ga0"/>
                             <constraint firstItem="3Fq-P8-a4i" firstAttribute="centerX" secondItem="pCJ-NJ-bXk" secondAttribute="centerX" id="ufC-kg-gjg"/>
                             <constraint firstItem="3Fq-P8-a4i" firstAttribute="leading" secondItem="oP1-aF-dEI" secondAttribute="leading" constant="12" id="vBc-rB-q3C"/>
                         </constraints>
