@@ -1,16 +1,16 @@
 # NYTimes-Demo
-Typical master detail SAMPLE application written in Kotlin to test NY Times Most Popular Articles API and show a list of news.
-This SAMPLE application is written in Kotlin using MVVM. 
+Typical master detail SAMPLE application written in Kotlin & Swift to test NY Times Most Popular Articles API and show a list of news.
+This SAMPLE application is written in Kotlin & Swift using MVVM. 
 
 ## List will display following
 - Title
-- Published date
 - Published by
+- Published date
 
 ## Detail will display following
 - Title
-- Published by
 - Abstract
+- Published by
 
 ## Required Parameters for API
 {section}/{period}
@@ -25,6 +25,10 @@ This SAMPLE application is written in Kotlin using MVVM.
 - Get api key
 - Add api key in SAMPLE Application config
 
-## Dependencies
+## Dependencies iOS
+- Alamofire https://github.com/Alamofire/Alamofire
+- Hud https://github.com/AtifNaveed/SwiftyProgressHud
+
+## Dependencies Android
 - Retrofit https://github.com/square/retrofit
 - Koin https://github.com/InsertKoinIO/koin
