@@ -17,7 +17,7 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 
 ## iOS Screenshots
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1571923259/4_txlstl.png)
-![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1571924674/6_hridig.png)
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1571933050/7_jbg5be.png)
 
 ## Android Screenshots
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289423/1_bvueuc.png)
