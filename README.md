@@ -15,11 +15,13 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 ## Required Parameters for API
 {section}/{period}
 
-![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289423/1_bvueuc.png)
-![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289432/2_kcacey.png)
-
+## iOS Screenshots
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_700/v1571923259/4_txlstl.png)
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_700/v1571923259/5_hsn7v3.png)
+
+## Android Screenshots
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289423/1_bvueuc.png)
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1561289432/2_kcacey.png)
 
 
 ## How to run this demo?
