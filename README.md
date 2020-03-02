@@ -15,7 +15,7 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 ## Required Parameters for API
 {section}/{period}
 
-## iOS Screenshots
+## iOS Screenshots:
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1571923259/4_txlstl.png)
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1571933050/7_jbg5be.png)
 
