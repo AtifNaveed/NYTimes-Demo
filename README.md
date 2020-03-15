@@ -1,4 +1,4 @@
-# NYTimes-Demo
+# NYTimes-Demo:
 Typical master detail SAMPLE application written in Kotlin & Swift to test NY Times Most Popular Articles API and show a list of news.
 This SAMPLE application is written in Kotlin & Swift using MVVM. 
 
