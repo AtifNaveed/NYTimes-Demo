@@ -2,7 +2,7 @@
 Typical master detail SAMPLE application written in Kotlin & Swift to test NY Times Most Popular Articles API and show a list of news.
 This SAMPLE application is written in Kotlin & Swift using MVVM. 
 
-## List will display following
+## List will display following:
 - Title
 - Published by
 - Published date
