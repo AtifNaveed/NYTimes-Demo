@@ -7,7 +7,7 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 - Published by
 - Published date
 
-## Detail will display following
+## Detail will display following:
 - Title
 - Abstract
 - Published by
