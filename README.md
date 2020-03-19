@@ -12,7 +12,7 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 - Abstract
 - Published by
 
-## Required Parameters for API
+## Required Parameters for API:
 {section}/{period}
 
 ## iOS Screenshots:
