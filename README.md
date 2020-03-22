@@ -30,7 +30,7 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 - Get api key
 - Add api key in SAMPLE Application config
 
-## Dependencies iOS
+## Dependencies iOS:
 - Alamofire https://github.com/Alamofire/Alamofire
 - Hud https://github.com/AtifNaveed/SwiftyProgressHud
 
