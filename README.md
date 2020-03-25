@@ -34,6 +34,6 @@ This SAMPLE application is written in Kotlin & Swift using MVVM.
 - Alamofire https://github.com/Alamofire/Alamofire
 - Hud https://github.com/AtifNaveed/SwiftyProgressHud
 
-## Dependencies Android
+## Dependencies Android:
 - Retrofit https://github.com/square/retrofit
 - Koin https://github.com/InsertKoinIO/koin
